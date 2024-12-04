@@ -3,6 +3,9 @@ package main
 import "fmt"
 
 func main(){
-	a := ""
+	a := "eeeeeeeeeeeee"
+	fmt.Println(a)
+}
+func Is(a int){
 	fmt.Println(a)
 }
