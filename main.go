@@ -3,10 +3,9 @@ package main
 import "fmt"
 
 func main(){
-	a := "hamid"
+	a := "eeeeeeeeeeeee"
 	fmt.Println(a)
 }
-
-func s(a string) {
+func Is(a int){
 	fmt.Println(a)
 }
