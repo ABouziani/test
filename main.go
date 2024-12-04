@@ -3,9 +3,11 @@ package main
 import "fmt"
 
 func main(){
-	a := "basta"
+	a := "yOUSSEF"
 	fmt.Println(a)
+	fmt.Println("fffffffffffffffffff")
 }
+
 
 func s(a string) {
 	fmt.Println(a)
